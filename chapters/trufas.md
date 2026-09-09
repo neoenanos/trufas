@@ -1,3 +1,4 @@
+::: indent
 > “Coisa brilha, se move, se agita, se movimenta, cresce, se agiganta, abrilhanta as núpcias do caos com este acaso, como age? Considerar a ideia de um mundo referente, dum a natureza como espetáculo a decifrar por um sujeito localizado, com o um gênesis de universo entre outros. O grifo é nosso.
 > \
 > \
@@ -12,6 +13,7 @@
 > “Los cuerpos son de madera y sin ojos como los maniquíes de las vidrieras. Tacho una palabra porque no me gusta su forma: no hay otra debajo, las vidrieras, como ejemplo: taché _las_, volví a escribirlas. Suicidio de forma, no forma de suicidio, aguas del narcisismo.”
 > 
 > > OSVALDO LAMBORGHINI
+:::
 
 \pagebreak
 
@@ -225,43 +227,55 @@ de momento no ha bajado el brillo. _siento una especie de tortura tibia_ siento 
 ∗
 :::
 
+::: center
 (frescos insectos *pulula*ban muy mucho en el ya angelado lugar)
+:::
 
 ::: center
 ∗
 :::
 
+::: center
 _hay bastante ruido de fondo_, me molesta
+:::
 
 ::: center
 ∗
 :::
 
+::: {.right-indent-3 .indent-3}
 _señor, ¿existe la posibilidad?… **estoy pensandillo que** la noche delira en mis dedos. nacen montecitos, crece el pasto, (el pasto creció). acaso señor, ¿quieres humillarme, tirar de mi tulita, de extremo a extremo (cifrado), diciendo tanta verdad, reprimiéndome… deprimido? por si no has oído: lo que se escucha son cuculíes: ellas me enseñan el arte de catar piedras, acelerar, i la siempre comprensible dispersión. desde el cielo llega la reacción de los nervios, se inventa un sistema. en este caso: ocurre poco… se avanza a veces, a veces **la estructura luminosa** i la sorpresiva erosión que herida el cutis llena de mapas el cuero cabelludo, de lenguas de espuma que buscan laberintos en el **pedacerío** de la emoción i se derrama: ir i venir, ir i venir en su **ojo** **reneg**a**do** que descifra **el relato continuo del tiempo llamado mar**. digo palabras **sobre el pasto**. digo, en un instante de arrebato, para mí errar: es **llorar de nostalgia**.puedes llevarte mis dedos si quieres… Agrimensor, **mi dios no es tu dios**. repito: puedes llevarte mis dedos, Arcángel, **este texto no es Ese**, no es la curva no hay hambre… **abandono mi mensaje**. **donde yo nací todo avanza en la cabeza**. huelga aclarar que mi cerebro es antiguo, delicado, con **la delicadeza real** de las aves extintas, pegadas a las zarzas desgarrando plumas en cada movimiento. **algunos lo entienden desde siempre. en este punto cruz deberían saberlo todo**. aún no he soñado, i **salieron a buscarme**_
+:::
 
 ::: center
 ∗
 :::
 
+::: center
 ¿amanecerá?
+:::
 
 ::: center
 ∗
 :::
 
-entumecidos perros. perros. _más ahora cuando suavemente se apaga_ ese bicho... —¿es llevadera la luz… amontonada… para ti? ¿sobre la meseta, sin concentrarse, intentando esconderse (sin esconderla)?— ...o un punto fijo _abierto hacia dentro_ donde la tersura, como una semilla, _en su desenrollar_, aquí mismo, en el sitio: aquí, _rozada apenas_, con la consistencia o porosidad de esos objetos delegados en el espacio, aumentan la lentitud, i con ella el sonido, i con ella el fondo, la vacilación i lo voluble inagotable. me duele el cuero. la farsa. la forma inmediata, irreconocible, de mi cerebronada. del _polvo oscuro_ interminable. mugre ya, en todo caso. _pero yo no quería ser sanado_ en el corral. i sin comprender nada. por el puro invento de la palabra “verdad” en un gruñido, o así al menos, sino ladrido. asevero: _la esfera luminosa de la que brotaban palabras_. no sé siquiera por dónde comenzar, aquel era el momento. estamos cansados, nosotros, perros, damos i no tenemos. cinco años de caminatas, pruebas de fe, cinco años de un interminable monólogo depositado en todos nosotros, que somos _el engendro ficcional del Otro_. ¿qué es eso de El Amanuense i por qué nos hace sufrir? ¿qué es eso de Trufas si ni agua? ay… por dónde comenzar. _¿acaso no te damos lo que tenemos?_, ¿los sacrificios no alcanzan?…                             —**_berreo, y erro y el eco me disemina**_
+entumecidos perros. perros. _más ahora cuando suavemente se apaga_ ese bicho... —¿es llevadera la luz… amontonada… para ti? ¿sobre la meseta, sin concentrarse, intentando esconderse (sin esconderla)?— ...o un punto fijo _abierto hacia dentro_ donde la tersura, como una semilla, _en su desenrollar_, aquí mismo, en el sitio: aquí, _rozada apenas_, con la consistencia o porosidad de esos objetos delegados en el espacio, aumentan la lentitud, i con ella el sonido, i con ella el fondo, la vacilación i lo voluble inagotable. me duele el cuero. la farsa. la forma inmediata, irreconocible, de mi cerebronada. del _polvo oscuro_ interminable. mugre ya, en todo caso. _pero yo no quería ser sanado_ en el corral. i sin comprender nada. por el puro invento de la palabra “verdad” en un gruñido, o así al menos, sino ladrido. asevero: _la esfera luminosa de la que brotaban palabras_. no sé siquiera por dónde comenzar, aquel era el momento. estamos cansados, nosotros, perros, damos i no tenemos. cinco años de caminatas, pruebas de fe, cinco años de un interminable monólogo depositado en todos nosotros, que somos _el engendro ficcional del Otro_. ¿qué es eso de El Amanuense i por qué nos hace sufrir? ¿qué es eso de Trufas si ni agua? ay… por dónde comenzar. _¿acaso no te damos lo que tenemos?_, ¿los sacrificios no alcanzan?…                             —_**berreo, y erro y el eco me disemina**_
 
 ::: center
 ∗
 :::
 
-_El Amanuense_: .....................................................................................................................................
+_El_\
+_Amanuense_: \dotfill <span class="dotfill"><span> \newline 
+\makebox[4em]{\dotfill}
 
 ::: center
 ∗
 :::
 
+::: indent-4
 _i es por necesidad, al **márjen de un río navegable**. al **márjen** de las vibraciones de varas de sauce. al **márjen** de “estas fueron sus palabras”, i por lo demás, i además: i que no leí, escribí: diciendo algo más, **oráculo diciendo**: estremecer(se) en la incompetencia: allí: mimicado: en flauta i gostoso dulce **prolijamente opaco**. es un secreto, digamos. por lo menos aquí, el cuerpo, **medido de cerro a cerro**, puede ser un lugar. **fracasemos mejor**. **fracasemos mejor una vez más**. pensamiento (primero) sin pensamiento: para seguir vivo **no importa nada en verdad**. suicidarse, matar, escribir, no escribir, porcelana… romper. **ya no puedo** poder **el tiempo atrás**. que existe el salitre, lo que es ahora. que: **cobre claro, o de borlas**: hace ver **microcristales** sobre la plagamano que aflige. **substituyendo lugar**. **substituyendo casa**. **substituyendo** los planos campos por arabescos escurridizos: diamantinos azuleados prestos a paladear luz. váse. mucho peligro los espejismos. **vegetales, frutos de estación**. isoyetas cortantes sin tilo. isoyetas agentes del margen (denticuladas) **reñid**as **con el polvo. este paisaje** de **mi alma será siempre mi alma.** la zalá oblicuamente cordada, **pentámera, hipóginas, fragante**… que más adelante ya: demarcaré. aunque no creo volver a recodarlo. un problema menor más. los dioses se acaban. empiezan i acaban. el ñame de las Blancas Llanuras **muy pa dentro** dentro, encorsetado. con este clima de pensamiento, Adís Abeba, seguro, ciudad natal de Simbad. \[no divagues, no divagues, reitera: la idea central\]. es cuestión de búsqueda, está ahí, minuciosamente, aunque se pudra, porque el Blanco también se pudre. soy El Ángel Que Tenía La Voz De Dios i te la proyectaba. repito para que escuches —es cuestión de narrar, de ritmo—: los dioses se acaban. **debe ser por la medicación, supongo**… **que hay lugar para la muerte**. para la desfloración. los pedúnculos de las letras exceden los veinte kilómetros bajo tierra, hilvanados o zurcidos de forma parecida a las estrellas arriba, pero también lo bastante ceñidos que llegan a ulcerarse, supurando unas densas gotas que carecen de diseño alguno legible a simple vista i a momentos fangal. los perros que ladran pasan arriba. arriba con las estrellas pasan. cánticos i aullidos a Al’lah **para conjurar el misterio**, cosas así. escollos de las lindes, **tenues, suaves, larvas de rubí**. que es devolver. tambalear. chusco de pedregal movimiento o **de hilo** la **superficie.** querría ver los mapas, a estos pasos de oscuridad, enmohecidos, por una marea o circulación, **así patente**, flagrante, de par en par, hasta (des)aparecer bráctea membranosa. envuelto en la penumbra (**de ese día** no **vuelv**o **siempre**, amador entero, Yo, que soy El Lucero De La Mañana), peciolado i con burletes en la boca: **el alba inocente** como un arcón i puntilleada de retazos brillantes como de noche **medio hech**a **mierda**. cataforizada. eco lejanínismo de la **estructura rimada de la realidad**. amancebado por los grumos de mi sangre. ¿los **huesos** te **han crecido**? casi no puedes respirar, caminar, casi pareces ahorcado ante los sueños alucinado i todo, ladrando cánido siendo tú el animal i el buscador, camello i perro, buceador coma, punto, **un nido hecha el alma**…_
+:::
 
 ::: center
 ∗

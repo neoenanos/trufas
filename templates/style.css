@@ -371,3 +371,8 @@ blockquote {
 blockquote blockquote {
     font-style: normal;
 }
+
+.dotfill {
+  display: inline-block;
+  border-bottom: 1px dotted currentColor;
+}
