@@ -34,7 +34,8 @@ mainfontfallback:
   - "Takao Mincho:script=cjk"
   - "Noto Sans Batak:Renderer=Harfbuzz"
   - "Noto Sans Tai Viet:Renderer=Harfbuzz"
-  - "Libertinus Serif"
+  - "DejaVu Sans:Renderer=Node"
+  - "Libertinus Serif:Renderer=Node"
 # Filter preferences:
 # - pandoc-crossref
 linkReferences: true

@@ -681,7 +681,7 @@ _**te pido, por lo que más quieras, que** atesores esta ligadura de repeticione
 :::
 
 a veces me cansaba de buscarte, me re podría de mi propia fiebre de buscarte y “mirá dónde estás” me dijiste
-_ilita Molina_
+_Milita Molina_
 
 ::: center
 ∗
@@ -705,7 +705,9 @@ solía _imaginar que hubo_ —por ocupar el tiempo en algo— _una real sucesió
 ∗
 :::
 
-_—es menester la intersección de otras maneras: barranco, borde, cuero, de fresca hierba cubierto por los años. Yo penitente: flores de fiambre en la boca, hambre, inútil paladar (maña) incapaz de aislar sinsabor de sabor. ¿dónde apoyar? logré mi objetivo de acelerar, detener. trepanar por fuerza de la voz (acelerar) la ocaso neblina —casi animal— de la cuenca rocosa de carnes (estil: sin aire). pero huir no puedo huir. estos ciclos —es ¡tanta! i ya mucho— invaden el fecundo pensar. **¿eres la neblina?** ni lo concibo. con mantas de seda tejida, abrigado, Diablo (Satanás), con su aliento suelta, con su lengua, palabras que suministra (aceites) a **la tierra perforada**, casi como un beso. Ángel milagroso. prometí no ponerme triste. **lo que resulta noble i recto**. creatura, Yo, que piensa sin pensar, es un detalle tan bello como huesear (literalmente) el inevitable horror de los cuerpos; tocaba sangre. he aquí que el sopor i la angustia llegan. ¿quién acercará mis huesos a sus labios, cosechará las flores en mi plexo crecidas? ¿quién me abrazará?… la hendida argamasa, estéril, ofréceme nueva piel, costillas quebradas entrambos como en polvorosa de perlas. Flora: no importa lo que diga o haga, no importa el pulso nestas **páginas de escritura dedicada**, ni la distancia quel lenguaje sitúa sobre, antes de los cuerpos. ¿acaso la sabes tú: forma de terminar, aunque malherido, mi Códex sin trastrigo ni erratas? ensayando el error; yendo hacia las manchas; buscando gravedad en las onomatopeyas eclosiones, navegable, de las Blancas. rebobinando borradores. pedrada a pedrada. cuyas mordeduras, a manera de arañas, secan parte substancial del cerebro impidiéndole curar… me perdone. a veces el ruido de hablar me molesta. sus salves i credos. las circunstancias, la desventura. todo lo anterior debería estar tachado. todo de mí debería tachar: existir: dejar: de nacer: dar una vuelta más hasta: o matar o invalidar: **son peces todavía**
+::: indent-4
+_—es menester la intersección de otras maneras: barranco, borde, cuero, de fresca hierba cubierto por los años. Yo penitente: flores de fiambre en la boca, hambre, inútil paladar (maña) incapaz de aislar sinsabor de sabor. ¿dónde apoyar? logré mi objetivo de acelerar, detener. trepanar por fuerza de la voz (acelerar) la ocaso neblina —casi animal— de la cuenca rocosa de carnes (estil: sin aire). pero huir no puedo huir. estos ciclos —es ¡tanta! i ya mucho— invaden el fecundo pensar. **¿eres la neblina?** ni lo concibo. con mantas de seda tejida, abrigado, Diablo (Satanás), con su aliento suelta, con su lengua, palabras que suministra (aceites) a **la tierra perforada**, casi como un beso. Ángel milagroso. prometí no ponerme triste. **lo que resulta noble i recto**. creatura, Yo, que piensa sin pensar, es un detalle tan bello como huesear (literalmente) el inevitable horror de los cuerpos; tocaba sangre. he aquí que el sopor i la angustia llegan. ¿quién acercará mis huesos a sus labios, cosechará las flores en mi plexo crecidas? ¿quién me abrazará?… la hendida argamasa, estéril, ofréceme nueva piel, costillas quebradas entrambos como en polvorosa de perlas. Flora: no importa lo que diga o haga, no importa el pulso nestas **páginas de escritura dedicada**, ni la distancia quel lenguaje sitúa sobre, antes de los cuerpos. ¿acaso la sabes tú: forma de terminar, aunque malherido, mi Códex sin trastrigo ni erratas? ensayando el error; yendo hacia las manchas; buscando gravedad en las onomatopeyas eclosiones, navegable, de las Blancas. rebobinando borradores. pedrada a pedrada. cuyas mordeduras, a manera de arañas, secan parte substancial del cerebro impidiéndole curar… me perdone. a veces el ruido de hablar me molesta. sus salves i credos. las circunstancias, la desventura. todo lo anterior debería estar tachado. todo de mí debería tachar: existir: dejar: de nacer: dar una vuelta más hasta: o matar o invalidar: **son peces todavía**_
+:::
 
 ::: center
 ∗
@@ -741,7 +743,9 @@ resonó nítido, _sin exagerar en lo más mínimo_
 ∗
 :::
 
- habitualmente lo hace:    
+::: verse
+
+habitualmente lo hace:    
 una noche, otra
 _después de_ prolongados _minutos_ 
 —distantes—
@@ -1024,3 +1028,4 @@ la forma absorbe distancias
 es la modulación
 
 .
+:::

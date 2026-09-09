@@ -143,24 +143,48 @@ function Div(el)
   end
 
 
-  if FORMAT:match("latex") and el.classes:includes("indent") then
-    local blocks = {}
+  if FORMAT:match("latex") then
+    local left = nil
+    local right = nil
 
-    table.insert(
-      blocks,
-      pandoc.RawBlock("latex", "{\\leftskip=2em")
-    )
+    for _, class in ipairs(el.classes) do
+      if class == "indent" then
+        left = left or "2em"
+      else
+        local val = class:match("^indent%-(%d+)$")
+        if val then left = val .. "em" end
+      end
 
-    for _, block in ipairs(el.content) do
-      table.insert(blocks, hardbreaks(block))
+      if class == "right-indent" then
+        right = right or "2em"
+      else
+        local val = class:match("^right%-indent%-(%d+)$")
+        if val then right = val .. "em" end
+      end
     end
 
-    table.insert(
-      blocks,
-      pandoc.RawBlock("latex", "}")
-    )
+    if left or right then
+      local parts = {}
+      if left then table.insert(parts, "leftskip=" .. left) end
+      if right then table.insert(parts, "rightskip=" .. right) end
 
-    return blocks
+      local blocks = {}
+      table.insert(
+        blocks,
+        pandoc.RawBlock("latex", "{\\" .. table.concat(parts, ",") )
+      )
+
+      for _, block in ipairs(el.content) do
+        table.insert(blocks, hardbreaks(block))
+      end
+
+      table.insert(
+        blocks,
+        pandoc.RawBlock("latex", "}")
+      )
+
+      return blocks
+    end
   end
 
   return el
