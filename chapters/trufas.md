@@ -1,4 +1,4 @@
-::: indent
+::: indent-4
 > “Coisa brilha, se move, se agita, se movimenta, cresce, se agiganta, abrilhanta as núpcias do caos com este acaso, como age? Considerar a ideia de um mundo referente, dum a natureza como espetáculo a decifrar por um sujeito localizado, com o um gênesis de universo entre outros. O grifo é nosso.
 > \
 > \
