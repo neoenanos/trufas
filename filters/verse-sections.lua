@@ -164,14 +164,10 @@ function Div(el)
     end
 
     if left or right then
-      local parts = {}
-      if left then table.insert(parts, "leftskip=" .. left) end
-      if right then table.insert(parts, "rightskip=" .. right) end
-
       local blocks = {}
       table.insert(
         blocks,
-        pandoc.RawBlock("latex", "{\\" .. table.concat(parts, ",") )
+        pandoc.RawBlock("latex", "\\begin{adjustwidth}{" .. (left or "0em") .. "}{" .. (right or "0em") .. "}")
       )
 
       for _, block in ipairs(el.content) do
@@ -180,7 +176,7 @@ function Div(el)
 
       table.insert(
         blocks,
-        pandoc.RawBlock("latex", "}")
+        pandoc.RawBlock("latex", "\\end{adjustwidth}")
       )
 
       return blocks
