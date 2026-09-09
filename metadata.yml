@@ -1,0 +1,42 @@
+---
+title: Trufas
+subtitle: (o de la razón diluida)
+author: Accelerator
+rights: CC-BY-SA-4.0
+lang: es-CL
+version: 0.1.0
+mainlang: spanish
+otherlang: spanish
+tags: [pandoc, book, poetry, cuba]
+documentclass: extbook
+fontsize: 14pt
+linestretch: 1.2
+top-level-division: chapter
+header-includes:
+- \input{templates/geometry.tex}
+- \input{templates/titlepage.tex}
+- \usepackage{emptypage}
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[RO,LE]{\thepage}
+- \fancyhead[RE,LO]{\footnotesize\leftmark}
+- \fancyfoot{}
+- \hyphenpenalty=10000
+- \exhyphenpenalty=10000
+- \tolerance=9999
+- \usepackage{verse}
+#- \let\cleardoublepage\clearpage
+- \setlength{\leftmargini}{0em}
+mainfont: IM FELL English
+mainfontoptions:
+  - AutoFakeBold=0.1
+mainfontfallback:
+  - "Takao Mincho:script=cjk"
+  - "Noto Sans Batak:Renderer=Harfbuzz"
+  - "Noto Sans Tai Viet:Renderer=Harfbuzz"
+  - "Libertinus Serif"
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
+

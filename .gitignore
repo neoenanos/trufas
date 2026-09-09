@@ -1,0 +1,4 @@
+build/*
+chapters/s
+.env
+*.log

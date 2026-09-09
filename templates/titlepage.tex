@@ -1,0 +1,36 @@
+\usepackage{graphicx}
+
+\makeatletter
+
+\newcommand{\subtitle}[1]{\def\@subtitle{#1}}
+\newcommand{\@subtitle}{}
+
+\renewcommand{\maketitle}{
+  \thispagestyle{empty}
+  
+  \begin{center}
+
+
+    {\Huge\bfseries \@title \par}
+
+    {\Large \@subtitle \par}
+
+    \vfill
+
+    \IfFileExists{images/cover.jpg}{
+      \includegraphics[
+        width=0.7\textwidth,
+        keepaspectratio
+      ]{images/cover.jpg}
+    }{}
+
+    \vfill
+
+    {\Large \@author \par}
+
+  \end{center}
+
+  \clearpage
+}
+
+\makeatother
