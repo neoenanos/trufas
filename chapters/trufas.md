@@ -209,7 +209,7 @@ _**ni por expresión alguna** mi escritura **podría reconocer el instante de la
 ∗
 :::
 
-cansancio. el terreno está pedregoso… un poco. de nada sirve, en la no-mañana, una manta tejida con amor, una bufanda o el diálogo con los pájaros decimales cuya nostalgia ocasional pone en duda este continente de tierras prendidas fuego _bajo el foco de la noche_, _no se puede ni contar_. ¿hay trufas? las moscas babean, mire vea, sobre los camellos, breves brotes de silencio. éstas son jornadas para divisar… absolutamente nada _junto a mi perro espiando horizontes_. el tornasol se ensancha, de recordar. el tornasol por imantación mimíca la duración del reflejo. simplemente está **ahí** 
+cansancio. el terreno está pedregoso… un poco. de nada sirve, en la no-mañana, una manta tejida con amor, una bufanda o el diálogo con los pájaros decimales cuya nostalgia ocasional pone en duda este continente de tierras prendidas fuego _bajo el foco de la noche_, _no se puede ni contar_. ¿hay trufas? las moscas babean, mire vea, sobre los camellos, breves brotes de silencio. éstas son jornadas para divisar… absolutamente nada _junto a mi perro espiando horizontes_. el tornasol se ensancha, de recordar. el tornasol por imantación mimíca la duración del reflejo. simplemente está _**ahí**_ 
 
 ::: center
 ∗

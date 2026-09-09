@@ -4,7 +4,7 @@ subtitle: (o de la razón diluida)
 author: Accelerator
 rights: CC-BY-SA-4.0
 lang: es-CL
-version: 0.1.0
+version: 0.1.2
 mainlang: spanish
 otherlang: spanish
 tags: [pandoc, book, poetry, cuba]
@@ -25,11 +25,15 @@ header-includes:
 - \exhyphenpenalty=10000
 - \tolerance=9999
 - \usepackage{verse}
+# support italic + bond
+- \usepackage{changepage}
+- \renewcommand{\emph}[1]{\textit{#1}}
+- \input{templates/fonts.tex}
 #- \let\cleardoublepage\clearpage
 - \setlength{\leftmargini}{0em}
 mainfont: IM FELL English
 mainfontoptions:
-  - AutoFakeBold=0.1
+  - AutoFakeBold=0.3
 mainfontfallback:
   - "Takao Mincho:script=cjk"
   - "Noto Sans Batak:Renderer=Harfbuzz"
