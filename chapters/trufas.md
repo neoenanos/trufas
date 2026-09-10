@@ -1166,4 +1166,6 @@ es la modulación
 
 :::
 
-![](/media/martincito/freedom/neoenanos/trufas/images/callampita.png)
+\newpage
+\thispagestyle{empty}
+![](images/callampita.png)
