@@ -1,17 +1,17 @@
 \thispagestyle{empty}
 ::: indent-4
-> “Coisa brilha, se move, se agita, se movimenta, cresce, se agiganta, abrilhanta as núpcias do caos com este acaso, como age? Considerar a ideia de um mundo referente, dum a natureza como espetáculo a decifrar por um sujeito localizado, com o um gênesis de universo entre outros. O grifo é nosso.
+> Coisa brilha, se move, se agita, se movimenta, cresce, se agiganta, abrilhanta as núpcias do caos com este acaso, como age? Considerar a ideia de um mundo referente, dum a natureza como espetáculo a decifrar por um sujeito localizado, com o um gênesis de universo entre outros. O grifo é nosso.
 > \
 > \
 > \[...\] \
 > \
-> Um corpo é muito osso para um olho que quer crescer sem mãos para o confundir.”
+> Um corpo é muito osso para um olho que quer crescer sem mãos para o confundir.
 > 
 > > PAULO LEMINSKI
 
 \
 
-> “Los cuerpos son de madera y sin ojos como los maniquíes de las vidrieras. Tacho una palabra porque no me gusta su forma: no hay otra debajo, las vidrieras, como ejemplo: taché _las_, volví a escribirlas. Suicidio de forma, no forma de suicidio, aguas del narcisismo.”
+> Los cuerpos son de madera y sin ojos como los maniquíes de las vidrieras. Tacho una palabra porque no me gusta su forma: no hay otra debajo, las vidrieras, como ejemplo: taché "las", volví a escribirlas. Suicidio de forma, no forma de suicidio, aguas del narcisismo.
 > 
 > > OSVALDO LAMBORGHINI
 :::
@@ -359,7 +359,7 @@ para los perros no hay Visión
 ∗
 :::
 
-si me llega a faltar alcohol me mato. errar, _allegado a la ida_, da igual ya: allegado en este _recogimiento santo, remotísimo_, mullido como la sutura del hongo—matadero i rumia— sobre el pasto que huele a empotrado. se desfondó brígido. i yo sin razón alguna, ninguna razón, i la noche muge puntos i colores, cuenca exorreica del díanoche que ilumina estos entreactos de tirarse al mar, agogé de la repetitura. i lo repite, repite, yo repito: veo a la distancia, Pasiflora, el maruchan de la indonesia soñada, maruchan del amor tan dorado… más que un texto…  _i de ese dilema mil laberintos ociosos derivan_: _iridiscencias enhebrando_, apesadumbradas, entre la oscuridad terregosa, el dialecto en raras formas bajo el suelo. lo entendería pero no… yo aquí sin entender… nada de entender: escribir. ¿_es una forma de infierno_ nada de entender? porque _la narración tiene que seguir_
+si me llega a faltar alcohol me mato. errar, _allegado a la ida_, da igual ya: allegado en este _recogimiento santo, remotísimo_, mullido como la sutura del hongo —matadero i rumia— sobre el pasto que huele a empotrado. se desfondó brígido. i yo sin razón alguna, ninguna razón, i la noche muge puntos i colores, cuenca exorreica del díanoche que ilumina estos entreactos de tirarse al mar, agogé de la repetitura. i lo repite, repite, yo repito: veo a la distancia, Pasiflora, el maruchan de la indonesia soñada, maruchan del amor tan dorado… más que un texto…  _i de ese dilema mil laberintos ociosos derivan_: _iridiscencias enhebrando_, apesadumbradas, entre la oscuridad terregosa, el dialecto en raras formas bajo el suelo. lo entendería pero no… yo aquí sin entender… nada de entender: escribir. ¿_es una forma de infierno_ nada de entender? porque _la narración tiene que seguir_
 
 ::: center
 ∗
