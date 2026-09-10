@@ -39,7 +39,7 @@ TEMPLATES = $(shell find templates/ -type f)
 MATH_FORMULAS = --webtex
 
 # Debugging
-QUIET = @
+QUIET = #@
 DEBUG_ARGS = # --verbose
 
 # Chapters content
