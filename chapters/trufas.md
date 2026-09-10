@@ -1,3 +1,4 @@
+\thispagestyle{empty}
 ::: indent-4
 > “Coisa brilha, se move, se agita, se movimenta, cresce, se agiganta, abrilhanta as núpcias do caos com este acaso, como age? Considerar a ideia de um mundo referente, dum a natureza como espetáculo a decifrar por um sujeito localizado, com o um gênesis de universo entre outros. O grifo é nosso.
 > \
@@ -227,7 +228,9 @@ _El Amanuense_: mi escritura es tintineo no tanteo
 ∗
 :::
 
+::: indent-4
 _**ni por expresión alguna** mi escritura **podría reconocer el instante de la victoria**. glaucoma-íctola-ictícola glaucoma-**única**-**manera**-**si**-**no**-**de**-**expiar**. **pero, a esta altura, ¿quién es capaz de pensar?** después de haber caminado, cazado **conejo**s **i un pescado**, **cortes** de **lonja, la sed** / la **culpa**, **en el oscuro pasillo donde intermitentemente** —**tapiado al fondo de algún recuerdo**— **un poco de luz se desprendía en ti**… **o quizá alguna vez**. ¿qué hay más dañino?_
+:::
 
 ::: center
 ∗
@@ -239,7 +242,9 @@ cansancio. el terreno está pedregoso… un poco. de nada sirve, en la no-mañan
 ∗
 :::
 
+::: indent-4
 _sin darlo vuelta, **la misma ceguera**. **el tonto de la tribu**… **se esfumó**. **ay de la oquedad**_
+:::
 
 ::: center
 ∗
@@ -380,7 +385,9 @@ sarro _entre las junturas_. tierras duras moteadas con matas de zarzamora, carav
 ∗
 :::
 
+::: indent-4
 _…apenas, una ligera adicción / apenas un desborde en los límites de la interpretación cada tantas páginas / anotar en los márgenes / circular en los márgenes / jalar clona / una pared roja es un sueño excelente / la risa de hablar de conjunto i decir vacío / instiga reminiscencias de lo verde / el horror vacui / pinchando el cielo / ¿quedarán cervezas para la posteridad?_
+:::
 
 ::: center
 ∗
@@ -432,7 +439,9 @@ no quiero intrincarme. _agrupado_ \[_con mi gorro de lana, Escribiente_\] i *pre
 ∗
 :::
 
+::: indent
 _mira: son unos insectos de origami sobre el campo un gato ha muerto mira: hay excrementos de animales crecen callampas del suelo mira: hay una sensación de deformidad. la línea del horizonte a medias o casi apagada mira: las plagas i las plagas i las plagas aplanadas como en un campo de batalla. **párrafos generados**, **errores** de gramática, **conceptuales** estados: retablos. mira: deseo advertirlo. mira: **lo incendiable incendió** un montón de pliegos de un bosque en crecimiento. dicen que el hormiguero en las montañas dicen que las bisagras. i dicen también —sea el mar o el pasto—: silencios entrechocan voz a voz hiladuras de **volumen** —i **respetable**—. que los soles quel pasado que otra vez como un niño dorado dando **un brinco** al **brillo** que la copa i los maullidos en una mongolia recién fraguada i vacíos. **que su canto**. mira: las letras de un libro tocadas por los dedos de gengis kan mira: ¿qué delimita una comarca de otra? ¿nuevos campos? de basalto los marcos desos cristales-aumento. **el todo tronado** bioluminiscente del cosmos un sueño. ¿qué vendrá? ¿encontraron refugiados? **vi flores blancas** disimuladas por migajas de verde maderas vi piedras como escupitajos i un licor blanco caer que embriaga hasta el cansancio. a lamer la resina trepado a un árbol a lamer el corazoncillo aguachento de la Materia oloroso fermentado. hay fisuras mezcla son sal. saca la costra podrida a medias la simiente, provechoso es tu fruto de veneno la noche abortada a penas molida con una piedra más oscura mitad del fuego que desechar. siempre mintiendo siempre… inalcanzables saberes nudosos por el manejo mire vea de la claridad un tanto compleja **si la negración ha intentado el manche** en carnaval musgoso, marea a marea escalando caliza adentro hasta **llegar a las murmuraciones** minando i dejando por omisión (no me excluyo) paucifloros caminos. mejor no hablar. **años perdidos** de **escribir** el **idioma o qué sé yo**. duele el intestino. suben los perros Corazón-Veneno el cielo es su colmenar. **i escribir por ejemplo** “te rompo el hocico” mojarlo en el mar con la luna **tan llena** el tacto registrar. los dedos ¿vienen contigo desde que lodo la Materia? ¿barro oscuro? genuinamente hace no mucho había dos i no infinitas estrellas que producían un ruido sacro sonido batiente de alas a **contracara** en ascenso seminal de las páginas del Libro. **esperaba la oscuridad** intacta pero es un pequeño nido cercado por **fenómenos de luz** que la gente llama **esporas**. montículos ya. dormir despertar dormir. **apenas cierro los ojos** cierro los signos mirando la interior suavidad. está hecha de partículas pacificadas puestas en miel así los pececitos nadan e intermitente: mísero papel es encefálica arquitectura: se vuelve un marjal. demasiado pensar… demasiado pensar… absorbo la noche tratándola de error nunca perdía las ilusiones. ¿pretender acaso la necesidad implantar el cerebro? allí —**en fin— está el cantor** i **las fosas del mar** adquieren otro valor de rudimento cuando el acento se espolvorea como gramíneas maduras en las interzonas atenúa i estimula **aguachenta**ndo (el deseo es ese) **los pensamientos un poco**. no zafar dicen. de los etcéteras no zafar. misiles i bombas cogotes rotos perros muertos de hambre \[¿i los camellos?\]. **dí en coleccionar fracasos** agregué la suspensión **el siga siga** \[**gozo i aplausos**\] como un modo de pomposidad para llenar el silencio tapar el glaucoma la vacuidad_
+:::
 
 ::: center
 ∗
@@ -466,7 +475,9 @@ _seis meses comieron los cóndores buitres a esta gente_ antigua después que ar
 ∗
 :::
 
+::: indent-4
 _**voy a ancar un** poco **más**, vidente. uno encima hasta cual siente **una manada de ríos** que lo enferman, piedras en la cabeza, bien-dentro-dentro, o castañas, fría es la erosión. **la urgencia consta**… **i monumental siempre** al calostro fijada por ordenanza de Jericó. se dice que allá el coriandro abunda i de peculiares maneras crece, asiduo a trazar en sus hojas pequeños manuscritos sutilísimos del pensar, **a la manera de** un **zodíaco** que se cristaliza. mucho tiempo atrás vido esto el escribiente primero del Libro lo apenitas balbuceado, más…_
+:::
 
 ::: center
 ∗
@@ -480,7 +491,9 @@ _\[**respiro**\]_
 ∗
 :::
 
+::: indent-4
 _vidente, mis métodos **precis**an de la **inexact**itud, **después voy a decirlo todo**. el entendimiento se va montando de a poco, nada lo frustra, ni la geometría irrespirable de lo real ni los grumos que la acompañan ni la **cabeza calaverada** hacedora de conceptos que de pintitas llena el Libro de la Vida i de gérmenes. pero… la verdad… solo es la angustia esa… de los cuadrados de sangre en los brazos_
+:::
 
 ::: center
 ∗
@@ -504,9 +517,11 @@ con mi chacra empecé un vertedero, con mi cabeza. _vertedero de cenizas_. _no l
 ∗
 :::
 
+::: align-right
 donde estaba la cabeza: un canto coral 
 
 _El Amanuense_
+:::
 
 ::: center
 ∗
@@ -520,12 +535,15 @@ _volviendo al tema…_
 ∗
 :::
 
-                                                                                \[paréntesis:
+::: align-right
+\[paréntesis:
+:::
 
 ::: center
 ∗
 :::
 
+::: verse
 contra los huesos        cuidadosamente cubiertos de telgopor 
     transcurrido un tiempo         _mantengo_ las _formas_
                 entre dos intervalos
@@ -556,12 +574,15 @@ justito al lado de una piedra cercana a aquel sagú que sobresale en la oscurida
                         \[_traía cilicio en el santo cuerpo_\]
 las declaraciones necrófilas para después pueden quedar        no es momento
             —si estuviérades tan sólo       sin tan sólo por el río Ilí llegaras…\]
+:::
 
 ::: center
 ∗
 :::
 
+::: {.indent .right-indent}
 _**i todo por culpa mía**, todo por culpa assí otra concentración no hay. **a saber cuántas noches** pensó que escaparía de las mil vueltas, del desfasaje, sin ganar ni un poco de serenidad que afantasmara lo que al sueño entregaba voz. **lloraba i velaba cada noche** escuchando el raro sonido contrafagot que —parecía— subía del subsuelo. la infinitud infierno vuelta, la arquitectura, **el lujo increíble** de **desespera**r **una narración**, assí: a una mínima distancia, casi superpuesta al espesor real si no se trata de una trampa más, **renunciando a cualquier salida**. **arrojaban piedras, huesos o varillas de metal adentro**, pese al resplandor… de alma que a momentos tensaba el kumbengo con amasijos i fraseos de una amplificada kora. **no sé qué es mi vida**, decía. un benteveo sobre la superficie, un brotecito de plumas, apenas, el proceso de condensación, la caída. i más allá, el sostenido borde. todo el conjunto, **tanto la expansión i contracción**, agudan el idioma en aspas divinas, en procura, tal vez, de iluminación. qué delicada asimetría la de las cosas i sus formas. seguía viendo flores a la medianoche pero agrandadas i de ellas caían goterones de aguanieve a una cantimplora de tierra, un hoyito justo abajo que hacía rebotar el eco de una manera doble, se enmarañaba —**porción de cosa suelta i no líquida que cabe en las manos juntas i puestas en forma cóncava**— al somnoliento acontecer sin **más referente** que estas **oraciones enteras** que dentro arden, al otro lado de los párpados, en la cuenca. en principio **sólo había que traducir el idioma**, descubrir qué era lo que pasaba, atravesar el estroma como un misil atómico o una puntuda aguja. **sólo** había que llegar… **lo que se atora cesa**_
+:::
 
 ::: center
 ∗
@@ -573,7 +594,7 @@ agotamiento en las Llanuras, _disemínase el contemplar_: polido i de intransfer
 ∗
 :::
 
-::: center
+::: align-right
 la realidad
 :::
 
@@ -587,27 +608,35 @@ _El Amanuense_: digo pocas mentiras cuando escribo / pero miento, i es realidad
 ∗
 :::
 
+::: indent-4
 _mi corazón se está secando i no bombea sangre mis pulmones e intestinos se desplazan por mis piernas i brazos es polvo mi sangre_
-
-::: center
-∗
-:::
-
-::: center
-_bdsm mío_
 :::
 
 ::: center
 ∗
 :::
 
+::: center
+_bdsm[^1] mío_
+:::
+
+[^1]: budismo.
+
+::: center
+∗
+:::
+
+::: indent-4
 _saltando de la cama rompí mi cabeza. a punta de aguja terminó punteada chorros de sangre después_
+:::
 
 ::: center
 ∗
 :::
 
+::: indent-4
 _ustedes quieren violarme las neuronas el cerebro, ustedes son los que me quitan la sangre i retuercen mis cuerdas, las rimas, el loco aspaviento_
+:::
 
 ::: center
 ∗
@@ -639,7 +668,7 @@ _¿i alfinal para qué sirve eso?_
 ∗
 :::
 
-::: center
+::: align-right
 cuando todo agoniza:
 :::
 
@@ -674,20 +703,28 @@ ni siquiera al narrar ni al margen me dejar, madejar, _la trufa vista en los cri
 :::
 
 —saqué alas a las moscas, ¿recuerdas?…
+
+::: align-right
 —_dentro de mi corazón, montes i ríos…_
+:::
+
 —…extraña condición de la materia mental
 
 ::: center
 ∗
 :::
 
+::: align-right
 _El Amanuense_:
+:::
 
 ::: center
 ∗
 :::
 
+::: {.indent .right-indent}
 _reparo en la distancia, los cuadernos, el color de lápiz, suponiendo que, con los rituales, el proceso de escritura llegará a la guerra i luego extinción. **la creación no tiene sentido**. la hipótesis de paisaje va más allá, uróbora, interviniendo mi **hoja sagrada** con el rastro de su cola de afiebrar. —no te pierdas… no te pierdas, por favor… **tampoco voy en la dirección correcta** pero: no te pierdas, por favor. **en medio de un error** se deponiendo, **el mundo se acerca**; **la siguiente decisión**, allegado a la idea, al trote del dictado: un atolondramiento de seísmo en velocidad. **la noche** va **dejando** algo que ocupa el espacio, grupitos de algo: luces malas, fuegos fatuos, estrellitas, montañas tapadas con un farolito encima del aire, quebradizas de **arena i el campo alrededor**. **estoy llenando el jarrón con tallos**, inclinándome un poco, con cuidado de no botar ni manchar de agua sucia los papeles entintados según la señal en cruz. **todo tiene su dificultad**. se espesura, crece frondas, dilata las placentas desechadas por los perros, podridas, llenas de moscos i larvas aletargadas en la humedad que las cobija. procuran reposar. echar miradas, fisgonear —dirección contraria— con el esfuerzo suave de los cuerpos. Madre i huevo. Madre… i fagocitar_
+:::
 
 ::: center
 ∗
@@ -735,7 +772,9 @@ en realidad, la realidad, es _substancia blanda_, en determinados momentos, o fi
 ∗
 :::
 
+::: {.indent .right-indent}
 _**te pido, por lo que más quieras, que** atesores esta ligadura de repeticiones movidas por las **notas, fusas** del romadizo escribir. los algodonales son arduos de trabajar, no hay descanso, no alimento. es malo Simbad, es malo. muchito hace doler el cuerpo (py'arasy), cantitos sobre el musical ritmo: cosechar. **semifusas**, **silencios**, **lejura**, **distancia**. **escribió dos pentagramas** de música golpeada que, a momentos, agótame de amor. hizo de mí un cuerpo, un blú de cuerpo. hay una rendija. un pedacito de cielo en que fumar. cuántos ánsares caminan en el pasto, el cielo está despejado. **(mira hacia arriba extasiado)** \[**creo que la letra** va algo **corrupta**\] \[parcialmente golpeada\]. el eco repite **movimiento y curso de cielos, estrellas, planetas**, en estotro bicho tuyo del pensamiento dentro, larañita. me hace sentar a escribir escondiéndome entre la maleza, el nidal de las aves —alcatraces— i las flores olorosas que andan, de grandes, destellando, amables, renovadas sonrisas en el rostro **que ensuciara la escena** con el vibrátil mirar. escribo para ti pero, esencialmente, el destinatario, de ser, he de ser yo. ¿seré un primate señalándome a mí mismo? ¿un mico? ¿algo suspendido, casi a modo de aire, estorbando como otra forma de multiplicidad? con estos cachivaches sacados de la basura, poemas reglados por el alcance-manantial de las placas tectónicas, he intentado evitar cualquier **inoportuna hebra** o **descomposición** de la cavidad bucal, frecuencia alguna que rondando quede (zumbidos) (castañuelas) (**un ablande**), al tan incesante imaginar, con su perfecto encaje: todos los gestos se desparraman. i no es una exageración decirlo, ya sea una tajada de lo real cometido, o la verdad achatada como esa frase que dibujábase, tranco, levemente, sobresos ojitos de agua, exacta forma de (manantial) la isla de Xió. **esperaba demasiado de mí**, así lo creo... así creo yo. **aleteó un poco el corazón** tras el insistente tedio de seguir en medio de la bulla mi imilla idea. **trazos copiados de aquí i allá inventan la lectura**, con **desesperado gritar**, de una catástrofe confesional escrita en tono de broma, no **menos romántica que la niebla**, porque, e**n** **giratorio lentísimo**, **hacia la garra**, **para hacer sensible la ruina i decadencia de la civilización**, **la barbarie** se **face en el interior**, a **mil quinientos** —más—... infinito. Otra absurda teoría más. Lo que no es punto. Mira: **ha sido tan largo** llorar **llegar hasta a**qu**í**, salmón en contra, de relamida, **durmiendo tantas noches solamente para** obturar las paraselenes que abanderan el cielo tardes enteras, días, que paso dentro de mi calavera ornamentando (de aburrido, capaz, o paranoico) los autodesprecios i sinrazón de la vida que llevo, el sentido que falta, la inexistente meta. soy Cadáver, Madre. Flora: un vestigio. mis dedos, sobre el pergamino de fina vitela plegado, se pudren esperando la **teatralidad última** o movimiento de la heder-materia de estas Llanuras tan Blancas. o, tal vez, por ser órganos expuestos que no alcanzo a ver —lo anterior referido— las indicantes feromonas sugieren **s**e**g**uir **a las moscas** por todo el margen i contorno, sin alteración, deste llamado pensamiento en tono de, con impecable comprometer, fruta podrida. luciérnagas o moscas, moscos o buitres, abejorros, mayates, animalitos infestados de gusanos, sardinas, cualquier descripción es perfecta, **las descripciones de** mis **personajes** parecen tender al silencio_
+:::
 
 ::: center
 ∗
@@ -759,6 +798,9 @@ _**te pido, por lo que más quieras, que** atesores esta ligadura de repeticione
 
 ::: center
 a veces me cansaba de buscarte, me re podría de mi propia fiebre de buscarte y “mirá dónde estás” me dijiste 
+:::
+
+::: align-right
 _Milita Molina_
 :::
 
@@ -794,19 +836,25 @@ _—es menester la intersección de otras maneras: barranco, borde, cuero, de fr
 ∗
 :::
 
-—…la transparencia no es una extensión eviscerada, se mostraba delicada emoción, irreductible. son los sistemas de flujo. aquí, como en otras partes, lares otros, la conquista de un cuerpo es con _asfixia_ p*o*r _bolsas plásticas i decapitación_… —describe, la verdad es que no tentiendo… —…ucé no habla la misma lengua, no tiene afección. ucé supone que opera los pliegues de la transparencia manados, _selecciona i combina_, supone el doblamiento de los peces soñados, pero otra es la situación… —…¿qué es ese signo que no entiendo?… —…independiente deso, los guijarros importan: de cuando en vez el fluyir tapona, se endurece la celulosa, la tan preciada claridad (de carácter sagrado) deja de revestir el colorido de luz que las cosas sobre sí llevan. la guerra se pone en marcha… —…pasemos a otra cosa mejor, algo que a voacé le interese, alguna leyenda del Bosque de Usutu: cuénteme más sobre la colmena, por ejemplo, los encantamentos de esa miel rara, o sobre el pajarito herido que encontraron i aquí fuera le hicieron una casa con un nido dentro, hecho de hojas, palos, pelo, no sé, pero hábleme de otra cosa… —…_porque aturullado con la visión_ do las quimeras fungen de idea, caigo, como un bruto animal, a la, vaga i reflexiva, hondonada destas soledades. _a veces pretendo no percatarme de la distancia_, que ningún lugar ocupe en mi cerebro apenas iluminado por lanternas… —…sin reproche a la experiencia, todavía no *logr*o _agrietar_ *e*l _espesor_… —_las imágenes crecen_¸ compactas devienen, voluta, locura; víamos el aturullamiento del cuerpo irrigado por la autoimpuesta ingesta de un brebaje que malogra rebién los tiempos… —…_vienen los desequilibrios mentales i hormonales_, pero _hay bastantes casos_… —…resumiendo, _hallaron en un arroyo, caída, muerta i medio comida de perros i picada de grajos_, lo dijo Cervantes, una forma de cuerpo a partes amontonada: de vedijas cubierta la cabeza, las manos de _tafetán negro_: como rastrillos, agarradas a la orilla mojada. podría haberme hecho un tambor de piel con la guata, o con la cara antifaces o una máscara. la escena me iluminaba los ojos rápidamente. mi pelo, el suyo, en ribetes paseaba, ondulado por el viento. qué triste abandonar así un cuerpo, falto de partes i en desorden, para aterrorizar. _más tarde_ *flota*ría _río abajo_, empujado, incierto en su trama, o en alguna parte estancado, acumulándose como piedras livianas o perlas preciosas; la arenilla es oro… —…¿cuándo se fue tu cabeza i perdiste las fuerzas para avanzar?… —…en principio le había confundido con arquetipo, sé en detalles las pruebas de Satán. apenas sobreviviendo, con varias petacas de ron consumidas, difícil era, la verdad, pensar otra cosa. _si algo podía_ existir, el indiferenciable todo, de sola presencia, resistiría materializarse. la conceptual forma. _una i misma cosa_. _esa firmeza provisoria_ de fugacidad, cuya existencia de la ausencia depende, de ciertas partes ausencia, escombros ausencia. espero no seas otra ausencia más… —…_lee i arrastra_, _por qué no decirlo_. *estaba*s _harto de que cualquier cosa fuera más importante_, ¿tanto te cuesta admitirlo?… —…_yo no lo invento, pasa_. no me gusta explicar “este es un fragmento” “una corrección” “esta parte importa poquito o todo tan poquito que… escribir” empecé al final. _i dije flujos:_ escribo pésimo. _tengo la_ maldita _manía de andar buscando mi tono_ en otros, un día más, oteando las piedritas puestas delicadamente entre el borde i el vacío que las letras dejan, —o cortes—… —…recula… _un día mas qué hice ayer_… —…no esnifé, vi i caminé. _pudiendo haber dado todo_ preferí avanzar, complicarlo. ¿cuántos cuadrados caben en uno tan grande como el universo? o ¿en qué dimensión el cuadrado no es visible i deja de existir? _basta la palabra errada para_ cambiar \[_coda_\] a una mala pensación. me aborrezco; _fingiendo unas esperanzas largas_, _sin tener consuelo_. imagine ucé questa sucesión por milagro encuentre un final tan abrupto como final, i que, definido trascendental (ese final: uso i eco), inocentemente —e inconsciente—, libere patógenos ora congelados, en flujos, a los miembros indicados, ha que amanezca… —…el aspecto de un sueño se ve así: lleno de relleno… —…cheno, lueñe. el acabóse mengua, otra vez, con su irrenunciable trance, el carácter de la noche. la causa radica en la afinación, la mucha o poca tensión, discontinua según la función, de las cuerdas. toda la tierra resuena, los tambores de palo, el duduk, los _troncos ahuecados_; en resonancia chirría el gredal, los caminos. combinaciones. transmutaciones. _coqueteos i vacilaciones_ con la realidad trágica _del mundo material_… —…cosa tan innecesaria como necesaria… —…hacía tiempo que no… nada *compensa*ba, en las edades del síntoma, mi _desequilibrio_. hay que definir un código, una cadena, seleccionar el acoplamiento. observa el cieno, raso blanco al sol; se está quedo. la entereza cristalina fluye, debajo, a la misma potencia quel sol, más vasta i trascendente —siempre— que la podredumbre encima frutecida, suspensa en la producción, sin mover ni alargar la extensión sino por el real devenir del cuerpo, prado, nieve blanca, codificando en esporas el vasto secreto creciente i en circulación. así me entró la visión… _comencé a sentir, sin llegar a verlo_, un trecho de lino i malvas a los pies de ti, Flora. i era fina causa el rozar de los tallos (tobillos) o fenecer en las plantas de tus pies cuando pasabas. era lo deseable. morir reventado como un higo. volverse un _emplasto de aguamiel i cebada_… —…i? mira donde la postergación te ha llevado: se forja una idea, te pierdes, ocurre algo raro (marcharse, partir), fisura de encastre el origen de la bisectriz… —…_cercén a cercén_, fingiendo _entretener la vida, que ya aborrezco_, en distintas acciones parecidas: trillar de añadiduras: hacer silencio: disparar: _un estilo que no encuentra su forma_. me quedo pensativo… de qué estaba hablando, qué era, ¿la visión?… —…eh digamos que sí. pero ¿a ucé le convendría seguir? ¿quiere? quizá por ahí no es… ¿ve ese _grupo de buitres sobrevolando cerca de_ los _arbustos_?… —…veo la _cola rucia o roja de_ un _buey_ agitando los alambres de fardo que sostienen, metódicamente, las colunas del escenario, la hebra: en la retama, en la comisura manchada de vino i nicotina de los yacientes sobresta plana soledad: encima-encima los perros, encima las carroñeras aves ensayando un baile de festín. la muerte siempre me resultó ocasional, algo de pasada, poco importante. ¿vuesa merced lo piensa así? ¿parecido? un cortesano, un bebé o perro serían comidos, igual que todos, por los gusanos. no es agradable pensar. i el alma, ¿acaso los bichos buscan el alma?… —…_nada tengo para declarar_. _pensar no es legítimo_… —…cuando ésta empieza a eclipsar, viscosa, tibia, el canto —estratificado i claro— enrolla la alteración de claroscuros permitida hasta desaparecer: deseante, _lavando con un poco de vino la herida_. en la lengua se esconde el alma. quiero seguir… —…sigue. cómo detenerse. los murmullos arrastran una extensidad que dimana de la búsqueda (de levedad, armonía)… —…empero, esos murmullos, mismos, en elipse, amurallan el seguir. su consolidación, aunque armoniosa (tienes razón), precipita, sin la real necesidad de precipitar, los papeles del Escribiente que en sueños veo: de pie, de lado, sentado —todavía—, no entendí. la decodificación _debe llegar de fuera_, horadar el cuero, raudo, impaciente, profundo, hasta la almáciga, en centelleo diseminar. ¿ves cómo resplandece la datilada roca? Inamovible ateroma, _testigo el cielo_, con el que vuelvo a tropezar… —…remanecer en lugar de permanecer… —…remanecer de grillos coronados por el precioso color linóleo cielo camuflado en la oscuridad, muerto de miedo. _pasan máscaras_¸ retratos, alelíes i alacranes que, por un suave esfuerzo, logran marchar, trenzar la marcha i hacia delante ir. es reversión tras reversión lo que cuento… creo: los colores se opacan, la semilla flota: como los viejos que repiten, de su vida, historias sustraídas del tiempo, _el sabor del polvo_, con granos más o granos menos de lo que en la ficción se pudo hallar… —me convidas faso i un poco más de chela, porfa?… —…toma, sí, toma… _miro al revés para dentro_ la combinación resultante, generada a partir de la isócrona contracción de líquenes, ganglios, equivalente, metafóricamente, a _la superabundancia i el desperdicio_. murmur barroso, frustración, _como constatación_ *de*l _fracaso_ (o proliferación —murmuraba el Escriba—) que poco i nada difiere del desplazamiento, excesivo, de la apertura corporal _cifrada con violencia_ en la piel yaciente. el exterior me asusta. _el engaño de un cuerpo íntegro, con órganos, la ilusión de sus gestos_, sintomático. embozo i obturación. bizmas con hilo brillante cosidas al personaje sin mundo ni exterior. ceremoniosamente hundido en la melancolía. ¿ahora entiendes la falta de empatía, la desconexión?… —…la dispersión. no hay modo más brutal que las polillas, por la luz, guarnecidas, el modo de su vuelo, ese otro polvillo de brillantema materialización… —…mi testimonio no tiende a la representación, _equivale_ *a*l *descuartiza*miento…
+—…la transparencia no es una extensión eviscerada, se mostraba delicada emoción, irreductible. son los sistemas de flujo. aquí, como en otras partes, lares otros, la conquista de un cuerpo es con _asfixia_ p*o*r _bolsas plásticas i decapitación_… —describe, la verdad es que no tentiendo… —…ucé no habla la misma lengua, no tiene afección. ucé supone que opera los pliegues de la transparencia manados, _selecciona i combina_, supone el doblamiento de los peces soñados, pero otra es la situación… —…¿qué es ese signo que no entiendo?… —…independiente deso, los guijarros importan: de cuando en vez el fluyir tapona, se endurece la celulosa, la tan preciada claridad (de carácter sagrado) deja de revestir el colorido de luz que las cosas sobre sí llevan. la guerra se pone en marcha… —…pasemos a otra cosa mejor, algo que a voacé le interese, alguna leyenda del Bosque de Usutu: cuénteme más sobre la colmena, por ejemplo, los encantamentos de esa miel rara, o sobre el pajarito herido que encontraron i aquí fuera le hicieron una casa con un nido dentro, hecho de hojas, palos, pelo, no sé, pero hábleme de otra cosa… —…_porque aturullado con la visión_ do las quimeras fungen de idea, caigo, como un bruto animal, a la, vaga i reflexiva, hondonada destas soledades. _a veces pretendo no percatarme de la distancia_, que ningún lugar ocupe en mi cerebro apenas iluminado por lanternas… —…sin reproche a la experiencia, todavía no *logr*o _agrietar_ *e*l _espesor_… —_las imágenes crecen_¸ compactas devienen, voluta, locura; víamos el aturullamiento del cuerpo irrigado por la autoimpuesta ingesta de un brebaje que malogra rebién los tiempos… —…_vienen los desequilibrios mentales i hormonales_, pero _hay bastantes casos_… —…resumiendo, _hallaron en un arroyo, caída, muerta i medio comida de perros i picada de grajos_, lo dijo Cervantes, una forma de cuerpo a partes amontonada: de vedijas cubierta la cabeza, las manos de _tafetán negro_: como rastrillos, agarradas a la orilla mojada. podría haberme hecho un tambor de piel con la guata, o con la cara antifaces o una máscara. la escena me iluminaba los ojos rápidamente. mi pelo, el suyo, en ribetes paseaba, ondulado por el viento. qué triste abandonar así un cuerpo, falto de partes i en desorden, para aterrorizar. _más tarde_ *flota*ría _río abajo_, empujado, incierto en su trama, o en alguna parte estancado, acumulándose como piedras livianas o perlas preciosas; la arenilla es oro… —…¿cuándo se fue tu cabeza i perdiste las fuerzas para avanzar?… —…en principio le había confundido con arquetipo, sé en detalles las pruebas de Satán. apenas sobreviviendo, con varias petacas de ron consumidas, difícil era, la verdad, pensar otra cosa. _si algo podía_ existir, el indiferenciable todo, de sola presencia, resistiría materializarse. la conceptual forma. _una i misma cosa_. _esa firmeza provisoria_ de fugacidad, cuya existencia de la ausencia depende, de ciertas partes ausencia, escombros ausencia. espero no seas otra ausencia más… —…_lee i arrastra_, _por qué no decirlo_. *estaba*s _harto de que cualquier cosa fuera más importante_, ¿tanto te cuesta admitirlo?… —…_yo no lo invento, pasa_. no me gusta explicar “este es un fragmento” “una corrección” “esta parte importa poquito o todo tan poquito que… escribir” empecé al final. _i dije flujos:_ escribo pésimo. _tengo la_ maldita _manía de andar buscando mi tono_ en otros, un día más, oteando las piedritas puestas delicadamente entre el borde i el vacío que las letras dejan, —o cortes—… —…recula… _un día mas qué hice ayer_… —…no esnifé, vi i caminé. _pudiendo haber dado todo_ preferí avanzar, complicarlo. ¿cuántos cuadrados caben en uno tan grande como el universo? o ¿en qué dimensión el cuadrado no es visible i deja de existir? _basta la palabra errada para_ cambiar \[_coda_\] a una mala pensación. me aborrezco; _fingiendo unas esperanzas largas_, _sin tener consuelo_. imagine ucé questa sucesión por milagro encuentre un final tan abrupto como final, i que, definido trascendental (ese final: uso i eco), inocentemente —e inconsciente—, libere patógenos ora congelados, en flujos, a los miembros indicados, ha que amanezca… —…el aspecto de un sueño se ve así: lleno de relleno… —…cheno, lueñe. el acabóse mengua, otra vez, con su irrenunciable trance, el carácter de la noche. la causa radica en la afinación, la mucha o poca tensión, discontinua según la función, de las cuerdas. toda la tierra resuena, los tambores de palo, el duduk, los _troncos ahuecados_; en resonancia chirría el gredal, los caminos. combinaciones. transmutaciones. _coqueteos i vacilaciones_ con la realidad trágica _del mundo material_… —…cosa tan innecesaria como necesaria… —…hacía tiempo que no… nada *compensa*ba, en las edades del síntoma, mi _desequilibrio_. hay que definir un código, una cadena, seleccionar el acoplamiento. observa el cieno, raso blanco al sol; se está quedo. la entereza cristalina fluye, debajo, a la misma potencia quel sol, más vasta i trascendente —siempre— que la podredumbre encima frutecida, suspensa en la producción, sin mover ni alargar la extensión sino por el real devenir del cuerpo, prado, nieve blanca, codificando en esporas el vasto secreto creciente i en circulación. así me entró la visión… _comencé a sentir, sin llegar a verlo_, un trecho de lino i malvas a los pies de ti, Flora. i era fina causa el rozar de los tallos (tobillos) o fenecer en las plantas de tus pies cuando pasabas. era lo deseable. morir reventado como un higo. volverse un _emplasto de aguamiel i cebada_… —…i? mira donde la postergación te ha llevado: se forja una idea, te pierdes, ocurre algo raro (marcharse, partir), fisura de encastre el origen de la bisectriz… —…_cercén a cercén_, fingiendo _entretener la vida, que ya aborrezco_, en distintas acciones parecidas: trillar de añadiduras: hacer silencio: disparar: _un estilo que no encuentra su forma_. me quedo pensativo… de qué estaba hablando, qué era, ¿la visión?… —…eh digamos que sí. pero ¿a ucé le convendría seguir? ¿quiere? quizá por ahí no es… ¿ve ese _grupo de buitres sobrevolando cerca de_ los _arbustos_?… —…veo la _cola rucia o roja de_ un _buey_ agitando los alambres de fardo que sostienen, metódicamente, las colunas del escenario, la hebra: en la retama, en la comisura manchada de vino i nicotina de los yacientes sobresta plana soledad: encima-encima los perros, encima las carroñeras aves ensayando un baile de festín. la muerte siempre me resultó ocasional, algo de pasada, poco importante. ¿vuesa merced lo piensa así? ¿parecido? un cortesano, un bebé o perro serían comidos, igual que todos, por los gusanos. no es agradable pensar. i el alma, ¿acaso los bichos buscan el alma?… —…_nada tengo para declarar_. _pensar no es legítimo_… —…cuando ésta empieza a eclipsar, viscosa, tibia, el canto —estratificado i claro— enrolla la alteración de claroscuros permitida hasta desaparecer: deseante, _lavando con un poco de vino la herida_. en la lengua se esconde el alma. quiero seguir… —…sigue. cómo detenerse. los murmullos arrastran una extensidad que dimana de la búsqueda (de levedad, armonía)… —…empero, esos murmullos, mismos, en elipse, amurallan el seguir. su consolidación, aunque armoniosa (tienes razón), precipita, sin la real necesidad de precipitar, los papeles del Escribiente que en sueños veo: de pie, de lado, sentado —todavía—, no entendí. la decodificación _debe llegar de fuera_, horadar el cuero, raudo, impaciente, profundo, hasta la almáciga, en centelleo diseminar. ¿ves cómo resplandece la datilada roca? Inamovible ateroma, _testigo el cielo_, con el que vuelvo a tropezar… —…remanecer en lugar de permanecer… —…remanecer de grillos coronados por el precioso color linóleo cielo camuflado en la oscuridad, muerto de miedo. _pasan máscaras_¸ retratos, alelíes i alacranes que, por un suave esfuerzo, logran marchar, trenzar la marcha i hacia delante ir. es reversión tras reversión lo que cuento… creo: los colores se opacan, la semilla flota: como los viejos que repiten, de su vida, historias sustraídas del tiempo, _el sabor del polvo_, con granos más o granos menos de lo que en la ficción se pudo hallar… —me convidas faso i un poco más de chela, porfa?… —…toma, sí, toma… _miro al revés para dentro_ la combinación resultante, generada a partir de la isócrona contracción de líquenes, ganglios, equivalente, metafóricamente, a _la superabundancia i el desperdicio_. murmur barroso, frustración, _como constatación_ *de*l _fracaso_ (o proliferación —murmuraba el Escriba—) que poco i nada difiere del desplazamiento, excesivo, de la apertura corporal _cifrada con violencia_ en la piel yaciente. el exterior me asusta. _el engaño de un cuerpo íntegro, con órganos, la ilusión de sus gestos_[^2], sintomático. embozo i obturación. bizmas con hilo brillante cosidas al personaje sin mundo ni exterior. ceremoniosamente hundido en la melancolía. ¿ahora entiendes la falta de empatía, la desconexión?… —…la dispersión. no hay modo más brutal que las polillas, por la luz, guarnecidas, el modo de su vuelo, ese otro polvillo de brillantema materialización… —…mi testimonio no tiende a la representación, _equivale_ *a*l *descuartiza*miento…
+
+[^2]: S. Sardudy.
 
 ::: center
 ∗
 :::
 
+::: indent-4
 _**cuando estos encuentros casuales** ocurrían, i por **pretexto cualquiera**, o descuido, la minucia de los gestos, en completo silencio, rozaba, **la distancia era también material**. las creaturas se desplomaban, se despoblaba —yo me aferré, el conjunto sucumbía— la apertura escarmenada a la pleamar. **ca**si dos o tres brazadas i ante mis ojos, frente a mí, se borraba, a tarascones de gomia, el prado de verdoso suelo. no pude hacer nada. imposible hacer algo, dada la **turbación i ensimismamiento** que en el centro de mi cráneo, como una cruz celeste interrogante i deformada, brillaba con todo su espesor dándome en los ojos. no fue descanso. no fue el flujo casual. dejéme arrastrar por los agujeros de la esponja para no pensar en nada, el impulso de inacción, la castración, \[**i se acordó**\] púsose a escribir: la mano. camarones pasaban, igual que palos, alargados, cerca de mi nadar, asomando sus patas apenas, mire vea, para en su movimento avanzar. **sost**enían **el vuelo**, adoraban al sol. crispaban, como llamas o extraña vegetación, sus lomos, dejando ver ganglios —o parecido— con joyas o gemas dentro siendo recorridas (lento) por la dorada claridad. **antes de desaparecer, sin dejar rastros**. quizá allí se encuentre la resurrección. esotro extrañamiento, sin identidad, padeciendo, de forma ya ancestral, defuera, con un tambor tonto bajo los dedos, mis lamentos. ¿podréla encontrar? ¿podré sanar **éste**: **mi cuitado corazón** apenas **palpitante** como una **luciérnaga en la humedad**? tomo un ángulo, un camino siguiente en la burbuja enmarañada, pero **se gasifica, evapora**, no sé, no encuentro dónde la oscura boca, no encuentro dónde los ángulos. escucho ronroneos, chasquidos, los átomos se ablandan pámpanos, centellean. la oscuridad de la luz es oscura con la luz. ciega_
+:::
 
 ::: center
 ∗
 :::
 
+::: indent-4
 _el saborcito mero-mero de los **cuajarones de sangre** para arriba subiendo ¿fará de mis ojos frío encone, camunina invasiva, en proceso de ramificación, durante los días o años de recombinación que subterráneamente, por medio de raíces, ínclito trance, ocurre, movimentando el embalsame, idioma original, del mundo? idioma de vibrátiles telarañas, paso tardo i continente, ornamentado de palafitos lúbricos que habitan la humedosa oscuridad, la sombra generosa, dichosa de paz, la rugosidad mineral que recubre la comunicación, atravesada por la comunicación, se agrieta, **todo muy misterioso**, producto de las veces quel flujo, por veda o embate, se atasca o empuja el coágulo o cálculo que quedado había (atrapado) en medio de la manufacturación de un registro vocal. hocico calmo de manantial al esporarlo (finos cuarzos) por vientos, mares, enternecidas hebras de violenta expansión. ¿cuántos reptiles se habrán apareado, cuántos otros cazado ratas i pájaros para, en el frío, sostenerse hasta —dirección posible—: maizales de la voz?_
+:::
 
 ::: center
 ∗
@@ -1112,5 +1160,10 @@ la forma absorbe distancias
 
 es la modulación
 
+::: center
 .
 :::
+
+:::
+
+![](/media/martincito/freedom/neoenanos/trufas/images/callampita.png)

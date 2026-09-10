@@ -59,7 +59,7 @@ DATE_METADATA = --metadata=date:$(COMPILE_DATE)
 
 ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(DATE_METADATA) $(FILTER_ARGS) $(DEBUG_ARGS)
 	
-PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua --lua-filter=filters/center.lua
+PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua --lua-filter=filters/center.lua --lua-filter=filters/align-right.lua
 
 # Per-format options
 
